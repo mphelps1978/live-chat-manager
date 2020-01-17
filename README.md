@@ -1,3 +1,5 @@
+#This is not my project. Head over to https://github.com/CodingGarden to see the authors Repos. This is a fork for personal use and #educational purposes as I attempt to learn development
+
 # Live Chat Manager
 
 A dashboard that allows me to manage incoming chat messages from YouTube and Twitch.
